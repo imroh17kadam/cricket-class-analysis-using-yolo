@@ -1,1 +1,1 @@
-# football-match-analysis-using-yolo
+# cricket-class-analysis-using-yolo
